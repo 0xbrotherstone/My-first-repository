@@ -26,7 +26,7 @@ a process.
 
 building quietly.
 learning in public.
-trusting the math.
+trusting but verifying.
 
 ---
 
@@ -46,7 +46,7 @@ status    : compiling
 ```json
 {
   "hardware"  : "things that open and close",
-  "software"  : "things that shouldn't be open",
+  "software"  : "things on the frontier",
   "finance"   : "asymmetric bets",
   "crypto"    : "sound money, sovereign self",
   "learning"  : "always"
